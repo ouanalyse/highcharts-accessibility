@@ -1,0 +1,19 @@
+{
+  "name": "ouanaylse-highcharts-accessibility",
+  "version": "6.0.4",
+  "description": "",
+  "main": "accessibility.src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouanalyse/highcharts-accessibility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouanalyse/highcharts-accessibility/issues"
+  },
+  "homepage": "https://github.com/ouanalyse/highcharts-accessibility#readme"
+}
